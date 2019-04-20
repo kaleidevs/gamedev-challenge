@@ -23,8 +23,8 @@ Game Dev Screenshots:
 
 Stage 1 | Stage 2 | Stage 3
 :------:|:-------:|:-------:
-<img src="/assets/belle_curve/M1W2Step_1.png" /> | <img src="/assets/belle_curve/M1W4Step_2.png" /> | <img src="/assets/belle_curve/M2W3Step_3.png" />
+<img src="https://github.com/kaleidevs/gamedev-challenge/blob/04839d21dd27f2f549cc17e2f6cfb6d5a8b880f1/assets/belle_curve/M1W2Step_1.png" /> | <img src="https://github.com/kaleidevs/gamedev-challenge/blob/04839d21dd27f2f549cc17e2f6cfb6d5a8b880f1/assets/belle_curve/M1W4Step_2.png" /> | <img src="https://github.com/kaleidevs/gamedev-challenge/blob/04839d21dd27f2f549cc17e2f6cfb6d5a8b880f1/assets/belle_curve/M2W3Step_3.png" />
 
 Finish | Reviews | Game Report
 :-----:|:-------:|:-----------:
-<img src="/assets/belle_curve/M3W3Finish.png" /> | <img src="/assets/belle_curve/M3W4Reviews.png" /> | <img src="/assets/belle_curve/M4W4Game_Report.png" />
+<img src="https://github.com/kaleidevs/gamedev-challenge/blob/04839d21dd27f2f549cc17e2f6cfb6d5a8b880f1/assets/belle_curve/M3W3Finish.png" /> | <img src="https://github.com/kaleidevs/gamedev-challenge/blob/04839d21dd27f2f549cc17e2f6cfb6d5a8b880f1/assets/belle_curve/M3W4Reviews.png" /> | <img src="https://github.com/kaleidevs/gamedev-challenge/blob/04839d21dd27f2f549cc17e2f6cfb6d5a8b880f1/assets/belle_curve/M4W4Game_Report.png" />
