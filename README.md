@@ -6,6 +6,25 @@ It's not going to be pretty at first, but then again, the fake games I created i
 
 ### Game #1: Belle Curve
 
-Topic: Sci-Fi
-Type: RPG
-Text-based, basic sounds
+* **Topic:** Sci-Fi
+* **Type:** RPG
+* **Details:** Text-based, basic sounds
+* **Basic Concept:** Unknown
+* **Built With:** Unknown
+
+Timelines:
+1. Design, 1 week
+2. Stage 1, 2 weeks
+3. Stage 2, 4 weeks
+4. Stage 3, 4 weeks
+5. Cleanup & Release, 1 week
+
+Game Dev Screenshots:
+
+Stage 1 | Stage 2 | Stage 3
+:------:|:-------:|:-------:
+<img src="/assets/belle_curve/M1W2Step_1.png" /> | <img src="/assets/belle_curve/M1W4Step_2.png" /> | <img src="/assets/belle_curve/M2W3Step_3.png" />
+
+Finish | Reviews | Game Report
+:-----:|:-------:|:-----------:
+<img src="/assets/belle_curve/M3W3Finish.png" /> | <img src="/assets/belle_curve/M3W4Reviews.png" /> | <img src="/assets/belle_curve/M4W4Game_Report.png" />
