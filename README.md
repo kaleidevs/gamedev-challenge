@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## What is the Game Dev Tycoon challenge?
 
-You can use the [editor on GitHub](https://github.com/kaleidevs/gamedev-challenge/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Game Dev Tycoon](https://store.steampowered.com/app/239820/Game_Dev_Tycoon/) is a game created by Greenheart Games back in 2013 following a fictional game studio's growth from 1980 through to now. Ever since it came out I had a dream of playing through the game and actually creating in real life every game idea that I mocked up.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It's not going to be pretty at first, but then again, the fake games I created in Game Dev Tycoon at first weren't very pretty either. So if you would like to follow my journey, and maybe even take the challenge on yourself, I'm so happy to have you!
 
 ### Markdown
 
