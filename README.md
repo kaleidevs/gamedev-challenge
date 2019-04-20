@@ -23,7 +23,7 @@ Game Dev Screenshots:
 
 Stage 1 | Stage 2 | Stage 3
 :------:|:-------:|:-------:
-![Stage 1]({{ site.url }}/assets/belle_curve/M1W2Step_1.png) /> | <img src="https://github.com/kaleidevs/gamedev-challenge/blob/04839d21dd27f2f549cc17e2f6cfb6d5a8b880f1/assets/belle_curve/M1W4Step_2.png" /> | <img src="https://github.com/kaleidevs/gamedev-challenge/blob/04839d21dd27f2f549cc17e2f6cfb6d5a8b880f1/assets/belle_curve/M2W3Step_3.png" />
+<img src="https://github.com/kaleidevs/gamedev-challenge/blob/04839d21dd27f2f549cc17e2f6cfb6d5a8b880f1/assets/belle_curve/M1W2Step_1.png" /> | <img src="https://github.com/kaleidevs/gamedev-challenge/blob/04839d21dd27f2f549cc17e2f6cfb6d5a8b880f1/assets/belle_curve/M1W4Step_2.png" /> | <img src="https://github.com/kaleidevs/gamedev-challenge/blob/04839d21dd27f2f549cc17e2f6cfb6d5a8b880f1/assets/belle_curve/M2W3Step_3.png" />
 
 Finish | Reviews | Game Report
 :-----:|:-------:|:-----------:
